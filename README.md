@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gheger (or sometimes @garryheger, eg. on twitter and instragram)
-- 👀 I’m interested in sport, cybersecurity, travels, blockachain and cryptocurrencies among other cool things
+- 👋 Hi, I’m @gheger (or sometimes @garryheger, eg. on twitter and instagram)
+- 👀 I’m interested in sport, cybersecurity, travels, blockchain and cryptocurrencies among other cool things
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me : @garryheger, garry@swisclima.ch
